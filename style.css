@@ -1,0 +1,46 @@
+.index_body{
+    background-color: rgb(0, 255, 123);
+}
+
+.index_list, 
+.salmon {
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.index_list.chicken {
+    background-color: rgb(20, 170, 220);
+    color: rgb(92, 10, 10);
+}
+
+.chicken {
+    background-color: blueviolet;
+    color: lightcyan;
+}
+
+#chicken_image {
+    height:1000px;
+}
+
+.salmon{
+    color: rgb(234, 241, 15);
+}
+
+.h1_title {
+    color: rgb(234, 0, 238);
+}
+
+#pea_index {
+    font-style: italic;
+    color: blue;
+}
+
+#chicken_body {
+background-color: darkorange;
+
+}
+
+#pea_body {
+    background-color: orchid;
+}
